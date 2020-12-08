@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.user-card {
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  margin: 10px;
+  background-color: rgb(206, 231, 240);
+  width: 500px;
+}
+
+.user-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+h1,
+span {
+  color: black;
+}
